@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+header{
+font-size: 60px;
+font-style: normal;
+color: yellowgreen;
+background-color: blue;
+width: auto;
+height: 300px;
+text-align: center;
+
+
+}
+
+main{
+    font-size: 20px;
+    font-style: normal;
+    color: black;
+    background-color:blubeviolet;
+    width: auto;
+    height: 1000px;
+    text-align: left;
+    
+
+}
+
+
+footer{  
+    font-size: 20px;
+    color: black;
+    background-color: blanchedalmond;
+    height: 200px;
+    text-align: center;
+}
